@@ -29,7 +29,7 @@
 <plugin name="cordova-plugin-inappbrowser" />
 <plugin name="cordova-plugin-exit" />
 
-<plugin name="phonegap-plugin-barcodescanner" >  
+<plugin name="cordova-plugin-qr-barcode-scanner" >  
     <param name="CAMERA_USAGE_DESCRIPTION" value="To scan barcodes." />  
 </plugin> 
 
