@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget id = "com.redcoats.virtualkeybeta" version="1.0.0" android-versionCode="39" xmlns = "http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" >
-<name>Virtual Key Beta</name>
-<description>virtual key</description>
+<name>Direct Connect Beta</name>
+<description>Direct Connect Beta</description>
 <author>redcoats</author>
 <content src="index.html"/>
 <preference name="phonegap-version" value="cli-9.0.0" /> 
