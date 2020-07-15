@@ -21,7 +21,7 @@
 <plugin name="cordova-plugin-dialogs" />
 
 <plugin name="cordova-plugin-device-orientation" />
-<plugin name="cordova-plugin-add-swift-support" />
+<plugin name="cordova-plugin-add-swift-support" spec="^1.7.2"/>
 <plugin name="cordova-plugin-siri-shortcuts" />
 
 <plugin name="cordova-plugin-file" />
